@@ -1,5 +1,7 @@
 # Blog Taxonomy
 
+- [it is fork](https://github.com/comerc/wn-blogtaxonomy-plugin)
+
 Taxonomy extension for [Winter Blog](https://github.com/wintercms/wn-blog-plugin) plugin.
 
 > Derived from 3.0.5 version of [Blog Taxonomy](https://github.com/GinoPane/oc-blogtaxonomy-plugin) plugin for 
